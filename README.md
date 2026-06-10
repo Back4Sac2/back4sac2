@@ -21,4 +21,4 @@ GraphQL · Ant Design · Java/Spring · Kubernetes · GitLab CI/CD · Elasticsea
  
 **Contact**
  
-[issac1162@gmail.com](mailto:issac1162@gmail.com) · [Velog](https://velog.io/@issac1162/posts)
+[issac1162@gmail.com](mailto:issac1162@gmail.com)

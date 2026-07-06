@@ -1,6 +1,6 @@
 # Isaac Oh @Back4Sac2
  
-Frontend Developer · 3y 8m experience  
+Fullstacks Developer · 3y 8m experience  
 Building backoffice tools, migrating legacy systems, shipping side projects.
  
 ---
@@ -13,8 +13,9 @@ GraphQL · Ant Design · Java/Spring · Kubernetes · GitLab CI/CD · Elasticsea
 ---
  
 **Experience**
- 
-- Software Engineer @ ConnectWave Inc. `2022.08 – 2026.03`
+
+- Software Enginner @ MG Credit Information Service Co. `2026.07 - Now`
+- Backoffice Web Developer @ ConnectWave(old. Danawa) Inc. `2022.08 – 2026.03`
 - Backend Trainee @ SsangYong IT Program `2022.01 – 2022.06`
 - Inha Technical College, Software Engineering `2017.03 – 2021.02`
 ---

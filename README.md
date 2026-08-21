@@ -1,23 +1,23 @@
 # Isaac Oh @Back4Sac2
  
-Fullstacks Developer · 3y 8m experience  
-Building backoffice tools, migrating legacy systems, shipping side projects.
+Web Enginner
+Building backoffice tools, migrating legacy systems
  
 ---
  
 **Stack**
  
-React · Next.js · TypeScript · Tailwind CSS · Zustand · TanStack Query  
-GraphQL · Ant Design · Java/Spring · Kubernetes · GitLab CI/CD · Elasticsearch
+React · Next.js · TypeScript
+GraphQL · RESTAPI · Java/Spring · Kubernetes · GitLab CI/CD
  
 ---
  
 **Experience**
 
-- Software Enginner @ MG Credit Information Service Co. `2026.07 - Now`
-- Backoffice Web Developer @ ConnectWave(old. Danawa) Inc. `2022.08 – 2026.03`
-- Backend Trainee @ SsangYong IT Program `2022.01 – 2022.06`
-- Inha Technical College, Software Engineering `2017.03 – 2021.02`
+- Next Generation TF Web Enginner @ MG Credit Information Service Co. `2026.07 - Now`
+- Backoffice Web Enginner @ ConnectWave(old. Danawa) Inc. `2022.08 – 2026.03`
+- Java Trainee @ SsangYong IT Program `2022.01 – 2022.06`
+- Inha Technical College, Information and Communication Technology (ICT) `2017.03 – 2021.02`
 ---
  
 **Contact**

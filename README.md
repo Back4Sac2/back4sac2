@@ -4,10 +4,6 @@ Web Engineer
 Building backoffice tools, migrating legacy systems
 
 ---
-Webエンジニア
-バックオフィスツール構築、レガシーシステムのマイグレーション
- 
----
  
 **Stack**
  

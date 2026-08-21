@@ -7,8 +7,11 @@ Building backoffice tools, migrating legacy systems
  
 **Stack**
  
-React · Next.js · TypeScript
-GraphQL · RESTAPI · Java/Spring · Kubernetes · GitLab CI/CD
+React · Next.js · Vue3 · TypeScript
+
+Java · Spring · NodeJs
+
+GraphQL · RESTAPI · Kubernetes · Git · Supabase
  
 ---
  

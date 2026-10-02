@@ -1,7 +1,7 @@
 # Isaac Oh @Back4Sac2
 
 Web Engineer
-Building backoffice tools, migrating legacy systems
+Building Backoffice tools, migrating legacy systems
 
 ---
  
@@ -9,7 +9,7 @@ Building backoffice tools, migrating legacy systems
  
 React · Next.js · Vue3 · TypeScript
 
-Java · Spring · NodeJs
+Java · Spring 
 
 GraphQL · RESTAPI · Kubernetes · Git · Supabase
  

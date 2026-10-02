@@ -1,4 +1,4 @@
-# Isaac Oh @Back4Sac2
+# Isaac
 
 Web Engineer
 Building Backoffice tools, migrating legacy systems
